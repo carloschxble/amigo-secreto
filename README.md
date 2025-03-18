@@ -22,11 +22,17 @@ nombres de sus amigos y luego sortear aleatoriamente quién le regalará a quié
 ## Estructura del proyecto
 
 amigo-secreto/
+
 ├── assets/
+
 │   ├── amigo-secreto.png
+
 │   └── play_circle_outline.png
+
 ├── app.js
+
 ├── index.html
+
 └── style.css
 
 * `index.html`: Estructura principal de la aplicación.
